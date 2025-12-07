@@ -15,9 +15,12 @@
         <StackPanel Orientation="Horizontal">
             <ComboBox x:Name="FiltersComboBox"  SelectionChanged="FiltersChanges">
                 <ComboBoxItem Content="Все"/>
-                <ComboBoxItem Content="По фио"/>
-                <ComboBoxItem Content="Логину"/>
+                <ComboBoxItem Content="Администратор"/>
+                <ComboBoxItem Content="Менеджер"/>
+                <ComboBoxItem Content="Авторизированный клиент"/>
             </ComboBox>
+            <TextBox x:Name="SearchTextBox" Width="100" Height="20" TextChanged="SearchResults"/>
+            
             <Button Width="100" Height="20" Content="Выйти" Click="LogOutButton_Click"/>
         </StackPanel>
         <DataGrid Grid.Row="1" AutoGenerateColumns="False" x:Name="UsersDataGrid" Height="350" Width="750" Style="{StaticResource DataGridStyles}">

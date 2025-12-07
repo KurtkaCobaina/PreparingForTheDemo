@@ -1,4 +1,5 @@
-﻿using System.Windows;
+﻿using System.Linq;
+using System.Windows;
 
 namespace TestWpfApp
 {
@@ -10,6 +11,7 @@ namespace TestWpfApp
         public UserAddWindow()
         {
             InitializeComponent();
+            RoleCombobox.ItemsSource = ShoeStoreDBEntities.GetContext().Roles.ToList();
         }
 
         private void SaveButton_Click(object sender, RoutedEventArgs e)
@@ -25,6 +27,11 @@ namespace TestWpfApp
                     fio = FioTextBox.Text
                 };
                 context.Users.Add(newUser);
+                var selectedRole = (Roles) RoleCombobox.SelectedItem;
+                var maxid = context.Users.Any() ? context.Users.Max(u => u.id) : 0;
+                var newId = maxid + 1;
+                var userRoles = new Users_Roles { id = newId , role_id = selectedRole.id};
+                context.Users_Roles.Add(userRoles);
                 context.SaveChanges();
                 MessageBox.Show("Пользователь успешно добавлен");
             }

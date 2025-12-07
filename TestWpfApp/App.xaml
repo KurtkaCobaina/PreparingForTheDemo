@@ -17,6 +17,10 @@
 
             <Setter Property="Foreground" Value="#39FF14"/>
         </Style>
+        <Style TargetType="ComboBox">
+            <Setter Property="Background" Value="#39FF14"/>
+            <Setter Property="Foreground" Value="#0B0B0B"/>
+        </Style>
       
             <!--Стили которые работают по ключу (Пишешь здесь и потом применяешь где надо в приложении по ключу)-->
         <Style x:Key="CustomBackground" TargetType="Window">

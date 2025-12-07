@@ -63,6 +63,5 @@ C:\Users\Айдар\source\repos\TestWpfApp\TestWpfApp\obj\Debug\TestWpfApp.cspr
 C:\Users\Айдар\source\repos\TestWpfApp\TestWpfApp\obj\Debug\TestWpfApp.exe.config
 C:\Users\Айдар\source\repos\TestWpfApp\TestWpfApp\bin\Debug\EasyCaptcha.Wpf.dll
 C:\Users\Айдар\source\repos\TestWpfApp\TestWpfApp\bin\Debug\EasyCaptcha.Wpf.pdb
-C:\Users\Айдар\source\repos\TestWpfApp\TestWpfApp\bin\Debug\CredentialManagement.dll
 C:\Users\Айдар\source\repos\TestWpfApp\TestWpfApp\bin\Debug\System.Configuration.ConfigurationManager.dll
 C:\Users\Айдар\source\repos\TestWpfApp\TestWpfApp\bin\Debug\System.Configuration.ConfigurationManager.xml

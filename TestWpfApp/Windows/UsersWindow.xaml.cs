@@ -14,6 +14,7 @@ namespace TestWpfApp
             InitializeComponent();
             UsersDataGrid.ItemsSource = ShoeStoreDBEntities.GetContext().Users.ToList();
             UsersDataGrid.ItemsSource = ShoeStoreDBEntities.GetContext().Users.ToList().OrderBy(x => x.id);
+
         }
 
         private void AddButton_Click(object sender, RoutedEventArgs e)
@@ -48,7 +49,28 @@ namespace TestWpfApp
 
         private void FiltersChanges(object sender, SelectionChangedEventArgs e)
         {
-
+            var context = ShoeStoreDBEntities.GetContext();
+            var users = context.Users.ToList();
+            string selectedFilter = (FiltersComboBox.SelectedItem as ComboBoxItem)?.Content.ToString();
+            if (selectedFilter == "Все")
+            {
+                UsersDataGrid.ItemsSource = users;
+            }
+            else if(selectedFilter == "Администратор")
+            {
+                users = users.Where( u => u.Users_Roles.Any(ur => ur.Roles.title == "Администратор")).ToList();
+                UsersDataGrid.ItemsSource = users;
+            }
+            else if (selectedFilter == "Менеджер")
+            {
+                users = users.Where(u => u.Users_Roles.Any(ur => ur.Roles.title == "Менеджер")).ToList();
+                UsersDataGrid.ItemsSource = users;
+            }
+            else if (selectedFilter == "Авторизированный клиент")
+            {
+                users = users.Where(u => u.Users_Roles.Any(ur => ur.Roles.title == "Авторизированный клиент")).ToList();
+                UsersDataGrid.ItemsSource = users;
+            }
         }
 
         private void LogOutButton_Click(object sender, RoutedEventArgs e)
@@ -65,6 +87,22 @@ namespace TestWpfApp
                 var loginWindow = new LoginWindow();
                 loginWindow.Show();
                 this.Close();
+            }
+        }
+
+        private void SearchResults(object sender, TextChangedEventArgs e)
+        {
+            string searchText = SearchTextBox.Text.ToLower();
+            var context = ShoeStoreDBEntities.GetContext();
+            var users = context.Users.ToList();
+            if (string.IsNullOrWhiteSpace(searchText))
+            {
+                UsersDataGrid.ItemsSource = ShoeStoreDBEntities.GetContext().Users.ToList();
+            }
+            else
+            {
+                var filteredUser = users.Where( u => u.user_login.ToLower().Contains(searchText.ToLower())).OrderBy(x => x.id);
+                UsersDataGrid.ItemsSource = filteredUser;
             }
         }
     }

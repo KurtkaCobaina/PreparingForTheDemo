@@ -3,51 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|c:\\users\\\u0430\u0439\u0434\u0430\u0440\\source\\repos\\testwpfapp\\testwpfapp\\windows\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|solutionrelative:testwpfapp\\windows\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\testwpfapp\\windows\\useraddwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|solutionrelative:testwpfapp\\windows\\useraddwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\testwpfapp\\windows\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|solutionrelative:testwpfapp\\windows\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\testwpfapp\\windows\\useraddwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|solutionrelative:testwpfapp\\windows\\useraddwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\testwpfapp\\windows\\usereditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|solutionrelative:testwpfapp\\windows\\usereditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\testwpfapp\\windows\\userswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|solutionrelative:testwpfapp\\windows\\userswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\testwpfapp\\windows\\usereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|solutionrelative:testwpfapp\\windows\\usereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\testwpfapp\\windows\\userswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|c:\\users\\\u0430\u0439\u0434\u0430\u0440\\source\\repos\\testwpfapp\\testwpfapp\\windows\\userswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|solutionrelative:testwpfapp\\windows\\userswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\testwpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|solutionrelative:testwpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|c:\\users\\\u0430\u0439\u0434\u0430\u0440\\source\\repos\\testwpfapp\\testwpfapp\\windows\\usereditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|solutionrelative:testwpfapp\\windows\\usereditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\testwpfapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|solutionrelative:testwpfapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|c:\\users\\\u0430\u0439\u0434\u0430\u0440\\source\\repos\\testwpfapp\\testwpfapp\\windows\\userswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|solutionrelative:testwpfapp\\windows\\userswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\testwpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|c:\\users\\\u0430\u0439\u0434\u0430\u0440\\source\\repos\\testwpfapp\\testwpfapp\\windows\\useraddwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|solutionrelative:testwpfapp\\windows\\useraddwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|c:\\users\\\u0430\u0439\u0434\u0430\u0440\\source\\repos\\testwpfapp\\testwpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|solutionrelative:testwpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\AppData\\Local\\Temp\\.vsdbgsrc\\3184477fe52af1e068377d5e5a904089bd3c3856a70df60d9370d02600d3b95c\\Application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|c:\\users\\\u0430\u0439\u0434\u0430\u0440\\source\\repos\\testwpfapp\\testwpfapp\\windows\\useraddwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|solutionrelative:testwpfapp\\windows\\useraddwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|c:\\users\\\u0430\u0439\u0434\u0430\u0440\\source\\repos\\testwpfapp\\testwpfapp\\windows\\usereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2F8E3FF-A56D-4B64-962E-891D4642B766}|TestWpfApp\\TestWpfApp.csproj|solutionrelative:testwpfapp\\windows\\usereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 30,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,27 +63,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserAddWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\Windows\\UserAddWindow.xaml.cs",
-              "RelativeDocumentMoniker": "TestWpfApp\\Windows\\UserAddWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\Windows\\UserAddWindow.xaml.cs",
-              "RelativeToolTip": "TestWpfApp\\Windows\\UserAddWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T14:01:11.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "UserEditWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\Windows\\UserEditWindow.xaml.cs",
               "RelativeDocumentMoniker": "TestWpfApp\\Windows\\UserEditWindow.xaml.cs",
               "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\Windows\\UserEditWindow.xaml.cs",
               "RelativeToolTip": "TestWpfApp\\Windows\\UserEditWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T13:59:29.701Z",
+              "WhenOpened": "2025-12-07T13:24:41.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\Windows\\UsersWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TestWpfApp\\Windows\\UsersWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\Windows\\UsersWindow.xaml.cs",
+              "RelativeToolTip": "TestWpfApp\\Windows\\UsersWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T13:23:43.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\App.xaml",
+              "RelativeDocumentMoniker": "TestWpfApp\\App.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\App.xaml",
+              "RelativeToolTip": "TestWpfApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-07T13:02:35.53Z",
               "EditorCaption": ""
             },
             {
@@ -114,120 +107,44 @@
               "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\Windows\\UserEditWindow.xaml",
               "RelativeToolTip": "TestWpfApp\\Windows\\UserEditWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-06T13:59:23.854Z",
+              "WhenOpened": "2025-12-07T13:02:14.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UsersWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\Windows\\UsersWindow.xaml.cs",
-              "RelativeDocumentMoniker": "TestWpfApp\\Windows\\UsersWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\Windows\\UsersWindow.xaml.cs",
-              "RelativeToolTip": "TestWpfApp\\Windows\\UsersWindow.xaml.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAkwEIAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T13:54:25.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UsersWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\Windows\\UsersWindow.xaml",
-              "RelativeDocumentMoniker": "TestWpfApp\\Windows\\UsersWindow.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\Windows\\UsersWindow.xaml",
-              "RelativeToolTip": "TestWpfApp\\Windows\\UsersWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-06T13:53:26.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "UserAddWindow.xaml",
               "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\Windows\\UserAddWindow.xaml",
               "RelativeDocumentMoniker": "TestWpfApp\\Windows\\UserAddWindow.xaml",
               "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\Windows\\UserAddWindow.xaml",
               "RelativeToolTip": "TestWpfApp\\Windows\\UserAddWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-06T13:53:23.429Z",
+              "WhenOpened": "2025-12-07T13:02:06.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\App.xaml.cs",
-              "RelativeDocumentMoniker": "TestWpfApp\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\App.xaml.cs",
-              "RelativeToolTip": "TestWpfApp\\App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "DocumentIndex": 3,
+              "Title": "UserAddWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\Windows\\UserAddWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TestWpfApp\\Windows\\UserAddWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\Windows\\UserAddWindow.xaml.cs",
+              "RelativeToolTip": "TestWpfApp\\Windows\\UserAddWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T13:51:24.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Application.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\AppData\\Local\\Temp\\.vsdbgsrc\\3184477fe52af1e068377d5e5a904089bd3c3856a70df60d9370d02600d3b95c\\Application.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3184477fe52af1e068377d5e5a904089bd3c3856a70df60d9370d02600d3b95c\\Application.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\AppData\\Local\\Temp\\.vsdbgsrc\\3184477fe52af1e068377d5e5a904089bd3c3856a70df60d9370d02600d3b95c\\Application.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3184477fe52af1e068377d5e5a904089bd3c3856a70df60d9370d02600d3b95c\\Application.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
-              "ViewState": "AQIAAJUCAAAAAAAAAAArwKkCAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T13:43:02.862Z",
-              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\App.config",
-              "RelativeDocumentMoniker": "TestWpfApp\\App.config",
-              "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\App.config",
-              "RelativeToolTip": "TestWpfApp\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-12-06T13:31:41.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\App.xaml",
-              "RelativeDocumentMoniker": "TestWpfApp\\App.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\App.xaml",
-              "RelativeToolTip": "TestWpfApp\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-06T13:31:38.637Z",
+              "WhenOpened": "2025-12-07T13:02:01.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\Windows\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "TestWpfApp\\Windows\\LoginWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\Windows\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "TestWpfApp\\Windows\\LoginWindow.xaml.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBoAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T13:07:54.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\Windows\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "TestWpfApp\\Windows\\LoginWindow.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\Windows\\LoginWindow.xaml",
-              "RelativeToolTip": "TestWpfApp\\Windows\\LoginWindow.xaml",
+              "Title": "UsersWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\Windows\\UsersWindow.xaml",
+              "RelativeDocumentMoniker": "TestWpfApp\\Windows\\UsersWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TestWpfApp\\TestWpfApp\\Windows\\UsersWindow.xaml",
+              "RelativeToolTip": "TestWpfApp\\Windows\\UsersWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-06T13:05:35.147Z",
+              "WhenOpened": "2025-12-07T13:01:57.85Z",
               "EditorCaption": ""
             }
           ]

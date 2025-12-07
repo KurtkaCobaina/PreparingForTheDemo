@@ -6,9 +6,11 @@
 //     Изменения, вносимые в этот файл вручную, будут перезаписаны при повторном создании кода.
 // </auto-generated>
 //------------------------------------------------------------------------------
+
 namespace TestWpfApp
 {
-  
+    using System;
+    using System.Collections.Generic;
     
     public partial class Users_Roles
     {

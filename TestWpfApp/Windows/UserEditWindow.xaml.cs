@@ -39,5 +39,7 @@ namespace TestWpfApp
             userWindow.Show();
             this.Close();
         }
+
+        
     }
 }
